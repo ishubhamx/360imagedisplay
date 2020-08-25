@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular360View"
+    }
+  },
+  "defaultProject": "Angular360View",
+  "cli": {
+    "analytics": false
+  }
 }
